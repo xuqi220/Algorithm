@@ -3,4 +3,4 @@
 
 ## 项目组织结构
 
-<img src="./organization.png">
+<img src="imgs/organization.png">
